@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Pruthviraj Kalsariya
 
-<!--
-**Pruthviraj07361/Pruthviraj07361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing B.Tech (Semester 2) at **LJ Institute of Engineering & Technology (LJIT)**
+📘 Completed HSC (Class 12) | 📗 Completed SSC (Class 10)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications
+
+* 📜 IIT Bombay Certified Course – Cohesion IIT Foundation
+* 📜 Completed Cohesion IIT Training Program
+
+---
+
+## 💼 Internship Experience
+
+* 💼 Intern at Cohesion IIT
+
+  * Gained hands-on experience in programming and problem-solving
+  * Worked on core concepts of software development
+
+---
+
+## 💻 Technical Skills
+
+* **Languages:** C, C++, Java, Python
+* **Database & Tools:** SQL, Power BI
+* **Technologies:** Machine Learning, AI Agents (n8n)
+
+---
+
+## 🚀 Interests
+
+* 📈 Practicing Data Structures & Algorithms (DSA) daily
+* 📚 Eager to learn new technologies and improve continuously
+* 🎯 Aspiring Software Engineer
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 GitHub: https://github.com/YOUR_USERNAME
+* 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+---
+
+⭐ *Always learning, building, and improving step by step!*
