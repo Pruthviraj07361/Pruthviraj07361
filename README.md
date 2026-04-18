@@ -9,7 +9,7 @@
 
 * 📜 IIT Bombay Certified Course – Cohesion IIT Foundation
 * 📜 Completed Cohesion IIT Training Program
-
+link of certificates:- https://github.com/Pruthviraj07361/Pruthviraj07361/blob/main/Cohesion%20certificates.pdf
 ---
 
 ## 💼 Internship Experience
