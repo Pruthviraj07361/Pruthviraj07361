@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pruthviraj Kalsariya
 
-🎓 Currently pursuing B.Tech (Semester 2) at **LJ Institute of Engineering & Technology (LJIT)**
+🎓 Currently pursuing B.Tech (Semester 2) at ** NEW LJ Institute of Engineering & Technology (LJIT)**
 📘 Completed HSC (Class 12) | 📗 Completed SSC (Class 10)
 
 ---
